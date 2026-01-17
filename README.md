@@ -22,7 +22,8 @@
 - **Networking:** Http Package
 - **UI/UX:** Slivers, Shimmer, CachedNetworkImage, Hero Animation
 - **Architecture:** Feature-based Structure
-
+  
+```text
 lib/
  ├── core/              # ระบบพื้นฐานและ Constants
  ├── data/              # Model และการจัดการ JSON
