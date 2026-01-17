@@ -32,6 +32,7 @@ lib/
  │         ├── providers/
  │         └── screens/
  └── main.dart          # จุดเริ่มต้นของแอป
+```
 
 ---
 
