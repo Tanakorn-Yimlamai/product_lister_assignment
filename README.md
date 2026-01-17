@@ -11,8 +11,9 @@
 ---
 
 ## 📸 Screenshots
-
-
+![List](screenshots/list.png)
+![Detail](screenshots/detail.png)
+![Error](screenshots/error.png)
 ---
 
 ## 🛠️ Tech Stack & Architecture
