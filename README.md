@@ -57,6 +57,6 @@ lib/
 ---
 
 ## ⚙️ Setup & Installation
-1. Clone the repository: `git clone [Your-Repo-URL]`
+1. Clone the repository: `git clone https://github.com/Tanakorn-Yimlamai/product_lister_assignment`
 2. Install dependencies: `flutter pub get`
 3. Run the app: `flutter run`
